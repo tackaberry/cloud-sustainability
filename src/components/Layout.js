@@ -37,7 +37,7 @@ const DivDark = styled.div`
   }
 `;
 
-export default ({ children, color, image, light, half, twocolumn, leftTitle, serif, courier, green}) => {
+export default ({ children, color, image, light, half, twocolumn, leftTitle, serif, courier, green, left}) => {
 
   let font = "Nunito, Helvetica, Arial, Sans-Serif"
   if(serif){
