@@ -144,47 +144,6 @@ Also: smishing, spearphishing
 
 
 
-<Image src={Phishing1} style={{height:"80%"}} />
-
-
-
-
-
-
-
-<Image src={Phishing2} style={{height:"80%"}} />
-
-
-
-
-
-
-
-
-<Image src={Phishing3} style={{height:"80%", width:"300px"}} />
-
-
-
-
-
-
-
-<Image src={Phishing4} style={{height:"30%"}} />
-
-
-
-
-
-
-
-<Image src={Phishing5} style={{height:"85%"}} />
-
-
-
-
-
-
-
 
 ## Pharming
 
