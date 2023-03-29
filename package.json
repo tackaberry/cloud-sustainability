@@ -4,7 +4,7 @@
   "description": "",
   "main": "deck.mdx",
   "scripts": {
-    "start": "mdx-deck ./src/deck.mdx",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider && mdx-deck ./src/deck.mdx",
     "build": "mdx-deck build ./src/deck.mdx && cp -r ./src/images public/ "
   },
   "author": "Brett Tackaberry",

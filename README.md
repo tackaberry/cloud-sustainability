@@ -25,9 +25,7 @@ Slides deployed [here](http://impact-hub-bbl-cybersecurity-fundamentals.s3-websi
 <hr />
 
 
-## How to Stay Safe & Secure Online: Cybersecurity Fundamentals 
-
-
+# How to Stay Safe & Secure Online: Cybersecurity Fundamentals 
 
 
 
@@ -137,10 +135,6 @@ Slides deployed [here](http://impact-hub-bbl-cybersecurity-fundamentals.s3-websi
 A seemingly trustworthy entity asks for sensitive information such as SSN, credit card numbers, login IDs or passwords via e-mail.          
 
 Also: smishing, spearphishing
-
-
-
-
 
 
 
@@ -387,18 +381,11 @@ A rootkit also eliminates evidence of a break-in and modifies the operating syst
 
 
 
-
-
-
 ## Information security is
-
-
 
 ### <u>C</u>onfidentiality
 ### <u>I</u>ntegrity
 ### <u>A</u>vailability
-
-
 
 
 
@@ -450,13 +437,18 @@ A rootkit also eliminates evidence of a break-in and modifies the operating syst
 
 
 
-
 ## 1. Train employees in security principles
 
 Establish basic security practices and policies for employees, such as requiring strong passwords, and establish appropriate Internet use guidelines that detail penalties for violating company cybersecurity policies. Establish rules of behavior describing how to handle and protect customer information and other vital data.
 
+## CIRA Cybersecurity Awareness Training
 
+- Canadian operated and developed platform with rich Cybersecurity course catalogue
+- Cyber Survey and risk assessment tools to track organizational progress on risk goals
+- Integrated Phishing and Smishing tools for automating testing programs
+- Reporting, risk scores & LMS capabilities to expand & customize course catalogues
 
+https://www.cira.ca/cybersecurity-services/small-teams-training
 
 
 
@@ -468,8 +460,25 @@ Having the latest security software, browser, and operating system are the best 
 
 Set antivirus software to run a scan after each update. Install other key software updates as soon as they are available.
 
-- Bitdefender, Windows Defender
 
+
+## Antivirus Software
+
+- [Bitdefender](https://www.bitdefender.com/) - AntiVirus, AdBlocker, VPN
+- Good for home and business
+
+
+
+
+
+
+
+## VPN
+
+- Protects your browsing from your ISP, work, public wifi
+- Ensures a secure connection over the internet
+- [Bitdefender](https://www.bitdefender.com/)
+- [CIRA Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) - protects DNS, malware, family filter
 
 
 
@@ -497,6 +506,8 @@ If employees work from home, ensure that their home system(s) are protected by a
 Regularly backup the data on all computers. Critical data includes documents, spreadsheets, databases, financial files, human resources files, and accounts receivable/payable files. 
 
 Backup data automatically in the cloud.
+
+How: [DropBox](https://www.dropbox.com/), [Google Drive](https://www.google.com/intl/en_ca/drive/)
 
 
 
@@ -526,6 +537,8 @@ Administrative privileges should only be given to trusted IT staff and key perso
 
 If you have a Wi-Fi network for your workplace, make sure it is secure, encrypted, and hidden. To hide your Wi-Fi network, set up your wireless access point or router, so it does not broadcast the network name, known as the Service Set Identifier (SSID). Password protect access to the router.
 
+Tip: Upgrade wifi at home to WPA2
+
 
 
 
@@ -536,7 +549,6 @@ If you have a Wi-Fi network for your workplace, make sure it is secure, encrypte
 ## 8. Employ best practices on payment cards
 
 Work with banks or processors to ensure the most trusted and validated tools and anti-fraud services are being used. You may also have additional security obligations pursuant to agreements with your bank or processor. Isolate payment systems from other, less secure programs and don't use the same computer to process payments and surf the Internet.
-
 
 
 
@@ -586,18 +598,13 @@ Do not reuse passwords.
 
 ## More about Passwords
 
-The oft-cited XKCD scheme for generating passwords—string together individual words like “correct horse battery staple” —is no longer good advice. The password crackers are on to this trick.
+The [oft-cited XKCD scheme](https://xkcd.com/936/) for generating passwords—string together individual words like “correct horse battery staple” —is no longer good advice. The password crackers are on to this trick.
 
 Take a sentence and turn it into a password: <i>I Love to work at the Impact Hub because of Liz</i>
 
 <pre>Iluv2wrk@tIHboL</pre>
 
 Read this: https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
-
-
-
-
-
 
 
 
@@ -621,6 +628,22 @@ Do not save your passwords in the browser.
 
 
 
+## At the Hub
+
+- Lock your screen when you get up
+- Don't leave your phone sitting around
+- Use a VPN 
+- Be aware of people around when you're talking 
+- Be aware of people walking behind you
+
+* Applies to the coffee shop, library, or any public space
+
+
+
+
+
+
+
 
 ## The Final Word Top 5 For Today
 
@@ -631,7 +654,6 @@ Do not save your passwords in the browser.
 - Use a password manager
 - Get AV software, VPN, ad blocker
 - Know someone that can help you if you get in trouble
-
 
 
 

@@ -10,8 +10,10 @@ const WHITE = "#FFF";
 const LIGHT_GREY = "#fafafa";
 const DARK_GREY = "#333";
 const GREY = "#737373";
+const BEIGE = "#f9f7f1";
 
 export {
+  BEIGE,
   ORANGE,
   YELLOW,
   MAROON,
