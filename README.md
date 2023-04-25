@@ -624,10 +624,6 @@ Do not save your passwords in the browser.
 
 
 
-
-
-
-
 ## At the Hub
 
 - Lock your screen when you get up
@@ -637,10 +633,6 @@ Do not save your passwords in the browser.
 - Be aware of people walking behind you
 
 * Applies to the coffee shop, library, or any public space
-
-
-
-
 
 
 
